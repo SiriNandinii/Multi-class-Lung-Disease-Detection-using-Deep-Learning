@@ -30,7 +30,7 @@ Please download the dataset separately.
 
 ## 🏆 Best Model
 - **Architecture:** VGG16
-- **Accuracy:** **97.3%**
+- **Accuracy:** **97.13%**
 - **Optimizer:** Adam
 - **Loss Function:** Categorical Cross-Entropy
 
