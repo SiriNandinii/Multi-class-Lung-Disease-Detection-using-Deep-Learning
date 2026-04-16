@@ -30,7 +30,7 @@ Please download the dataset separately.
 
 ## 🏆 Best Model
 - **Architecture:** VGG16
-- **Accuracy:** **97.13%**
+- **Accuracy:** **97.14%**
 - **Optimizer:** Adam
 - **Loss Function:** Categorical Cross-Entropy
 
@@ -55,7 +55,7 @@ Please download the dataset separately.
 ---
 
 ## 📊 Results
-The **VGG16-based model achieved 97.3% accuracy**, outperforming other tested CNN architectures on the dataset.
+The **VGG16-based model achieved 97.14% accuracy**, outperforming other tested CNN architectures on the dataset.
 
 ---
 
